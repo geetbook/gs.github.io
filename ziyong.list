@@ -12,24 +12,8 @@ DOMAIN-SUFFIX,aos-cdn-files.cn-hangzhou.oss.aliyun-inc.com
 DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,ymm56.com
 # ===== 阿里系直连 =====
-DOMAIN-KEYWORD,taobao
-
-DOMAIN-KEYWORD,tmall
-
-DOMAIN-KEYWORD,alipay
-
-DOMAIN-KEYWORD,aliyun
-
-DOMAIN-KEYWORD,alicdn
-
-DOMAIN-KEYWORD,amap
-DOMAIN-SUFFIX,taobao.com
-DOMAIN-SUFFIX,tmall.com
-DOMAIN-SUFFIX,ele.me
-DOMAIN-SUFFIX,aliyun.com
-DOMAIN-SUFFIX,youku.com
-
-DOMAIN-SUFFIX,aliyuncs.com
+IP-CIDR,163.181.88.0/24,no-resolve
+IP-CIDR,188.214.64.0/24,no-resolve
 
 # ===== 腾讯系直连 =====
 
