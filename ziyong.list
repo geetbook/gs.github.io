@@ -11,19 +11,6 @@ DOMAIN-SUFFIX,zdmimg.com
 DOMAIN-SUFFIX,aos-cdn-files.cn-hangzhou.oss.aliyun-inc.com
 DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,ymm56.com
-==== Apple =====
-
-DOMAIN-SUFFIX,apple.com,
-
-DOMAIN-SUFFIX,icloud.com,
-
-DOMAIN-SUFFIX,itunes.com,
-
-DOMAIN-SUFFIX,me.com,
-
-DOMAIN-SUFFIX,mzstatic.com,
-
-DOMAIN-SUFFIX,apple-cloudkit.com,
 # ===== 阿里系直连 =====
 
 DOMAIN-KEYWORD,taobao
