@@ -12,6 +12,7 @@ DOMAIN-SUFFIX,aos-cdn-files.cn-hangzhou.oss.aliyun-inc.com
 DOMAIN-SUFFIX,getui.net
 DOMAIN-SUFFIX,ymm56.com
 IP-CIDR,163.181.88.0/24
+IP-CIDR,188.214.64.0/24
 # ===== 阿里系直连 =====
 
 DOMAIN-KEYWORD,taobao
